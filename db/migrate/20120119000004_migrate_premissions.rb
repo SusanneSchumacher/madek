@@ -34,7 +34,7 @@ class MigratePremissions < ActiveRecord::Migration
       end
     end
 
-    drop_table :permissions
+    # drop_table :permissions
 
   end
 
